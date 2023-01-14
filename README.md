@@ -9,7 +9,7 @@ Calculator GUI.
 
 * Use Java version 8 or higher.
 * Use any JDKs.
-* Open any available IDE and run [Calx.java](CalX.java).
+* Open any available IDE and run [CalX.java](CalX.java).
 
 
 ## Limitations (feel free to contribute)
